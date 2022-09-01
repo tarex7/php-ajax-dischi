@@ -1,0 +1,43 @@
+body {
+  background-color: #1e2d3b;
+}
+
+header {
+  background-color: #2e3a46;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+#logo {
+  width: 40px;
+}
+
+.card img {
+  min-width: 185px;
+  min-height: 185px;
+}
+
+.card {
+  background-color: #2e3a46;
+  cursor: pointer;
+  border: 3px solid transparent;
+  transition: all 0.2s;
+}
+
+.card:hover {
+  border: 3px solid rgba(255, 255, 255, 0.5);
+}
+
+.row {
+  background-color: #1e2d3b;
+}
+.col {
+  height: 430px;
+  min-width: 20%;
+}
+.card {
+  height: 430px;
+}
