@@ -62,7 +62,7 @@
             'author' => 'Dave Weckl',
             'year' => 1994,
             'poster' => 'https://m.media-amazon.com/images/I/611TBSi2y8L._AC_SL1200_.jpg',
-            'genre' => 'Metal'
+            'genre' => 'Jazz'
         ],
         [
             'title' => 'Bad',
